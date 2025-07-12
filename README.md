@@ -58,7 +58,7 @@ Languages: [Python, JavaScript, Java, CSS, React.js, HTML, Bash, SQL, many more.
   <img src="https://github-profile-trophy.vercel.app/?username=rabeelashraf&theme=radical&margin-w=10&no-frame=true" />
 </p>
 
-![Snake animation](https://github.com/rabeelashraf/rabeelashraf/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rabeelashraf/rabeelashraf/output/github-contribution-grid-snake.svg)
 
 ---
 
