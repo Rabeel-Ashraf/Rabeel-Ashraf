@@ -58,8 +58,6 @@ Languages: [Python, JavaScript, Java, CSS, React.js, HTML, Bash, SQL, many more.
   <img src="https://github-profile-trophy.vercel.app/?username=rabeelashraf&theme=radical&margin-w=10&no-frame=true" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/rabeelashraf/rabeelashraf/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🔧 Current Projects
@@ -72,7 +70,9 @@ Languages: [Python, JavaScript, Java, CSS, React.js, HTML, Bash, SQL, many more.
 
 ## 💬 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrperfect6ft@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabeel-ashraf-721105204)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/1H_Bx1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: mrperfect6ft@gmail.com)
 
 ---
 
