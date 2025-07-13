@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Rabeel+Ashraf!;Full+Stack+Developer;Backend+Engineer;AI+Agent+Creator;Mechanical+%26+Safety+Engineer;Climate+Change+Inspector&font=Fira+Code&center=true&width=700&height=50&color=00FFD1&vCenter=true&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Rabeel+Ashraf!;Full+Stack+Developer;Backend+Engineer;AI+Agent+Creator;Mechanical+%26+Safety+Engineer;Climate+Change+Advocate&font=Fira+Code&center=true&width=700&height=50&color=00FFD1&vCenter=true&size=25" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@ Skills:
   - 💻 Full Stack & Backend Developer
   - 🧠 AI Tools & Intelligent Agent Architect
   - 🛠 Mechanical & Safety Engineer
-  - 🌍 Climate Change Inspector
+  - 🌍 Climate Change Advocate 
 Languages: [Python, JavaScript, Java, CSS, React.js, HTML, Bash, SQL, many more...]
 ```
 
