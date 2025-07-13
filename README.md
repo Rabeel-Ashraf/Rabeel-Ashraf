@@ -52,7 +52,7 @@ Languages: [Python, JavaScript, Java, CSS, React.js, HTML, Bash, SQL, many more.
 
 ---
 
-## 🏆 GitHub Trophies & Snake
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rabeelashraf&theme=radical&margin-w=10&no-frame=true" />
