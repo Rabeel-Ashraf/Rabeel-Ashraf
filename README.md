@@ -1,79 +1,138 @@
+
+<!-- README v2 - Rabeel Ashraf / OrionixLabs -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Rabeel+Ashraf!;Full+Stack+Developer;Backend+Engineer;AI+Agent+Creator;Mechanical+%26+Safety+Engineer;Climate+Change+Advocate&font=Fira+Code&center=true&width=700&height=50&color=00FFD1&vCenter=true&size=25" />
+  <img src="https://github.com/Rabeel-Ashraf/Rabeel.world.final/blob/main/public/rabeel.jpg" width="120" style="border-radius: 50%;" />
+  <br />
+  <strong>Rabeel Ashraf</strong>
+  <br />
+  Founder of <a href="https://orionixlabs.com" target="_blank">OrionixLabs</a>
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200" />
+  <em>AI Specialist | Automation Architect | Safety Engineer | Creator of Sentient Code</em><br/>
+  <strong>“I am Sentinel of OrionixLabs”</strong>
 </p>
 
 ---
 
-## 🚀 About Me
-
-```yaml
-Name: Rabeel Ashraf
-Email: mrperfect6ft@gmail.com
-Role: Multi-Disciplinary Developer & Engineer
-Skills:
-  - 💻 Full Stack & Backend Developer
-  - 🧠 AI Tools & Intelligent Agent Architect
-  - 🛠 Mechanical & Safety Engineer
-  - 🌍 Climate Change Advocate 
-Languages: [Python, JavaScript, Java, CSS, React.js, HTML, Bash, SQL, many more...]
-```
-
-🧩 I specialize in integrating **AI tools**, building full-stack **web applications**, and contributing to sustainable and safe engineering environments.
+## 📜 Table of Contents
+- [🧠 The Mind Behind the Code](#-the-mind-behind-the-code)
+- [🌞 Orionix Labs](#-orionix-labs--engineering-the-future)
+- [📁 Featured Projects](#-featured-projects)
+- [🛠️ Arsenal of Excellence](#️-arsenal-of-excellence)
+- [🔥 Currently On Fire With](#-currently-on-fire-with)
+- [📊 Code Legacy & Activity](#-code-legacy--activity)
+- [🏆 Elite GitHub Achievements](#-elite-github-achievements)
+- [🚀 In Development](#-in-development-the-next-frontier)
+- [🌐 Connect with the Architect](#-connect-with-the-architect)
+- [🧠 Final Words](#-final-words)
 
 ---
 
-## 💼 Tech Stack
+## 🧠 The Mind Behind the Code
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+I’m Rabeel Ashraf — a multi-domain innovator blending AI automation, real-world safety systems, and future-facing tech. Whether it’s crafting self-hosted SaaS platforms, building personal AI agents, or creating immersive portfolio experiences, I engineer tools that **learn, protect, and evolve**.
 
 ---
 
-## 📈 GitHub Stats
+## 🌞 Orionix Labs – Engineering the Future
+
+> 🚀 A next-gen software company designing rare, uncreateable tools in:
+- ✳️ **AI agents & assistants**
+- 🧠 **Automation bots**
+- 🌐 **Self-hosted SaaS**
+- 🤖 **Surveillance & defense systems**
+- 🌌 **Immersive 3D digital experiences**
+
+Explore more at 🌐 [OrionixLabs.com](https://orionixlabs.com)
+
+---
+
+## 📁 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🧠 OrionCore AI](https://github.com/Rabeel-Ashraf/OrionCore) | Autonomous AI agent orchestration platform. | `LangChain`, `GPT-4`, `PostgreSQL`, `Next.js` |
+| [🌍 SafeSite AI](https://github.com/Rabeel-Ashraf/SafeSiteAI) | Real-time safety alerting system for high-risk zones. | `YOLOv8`, `CV`, `Raspberry Pi`, `IoT` |
+| [📊 FinGenie](https://github.com/Rabeel-Ashraf/FinGenie) | AI financial research engine with smart API calls. | `Node.js`, `OpenAI`, `Gemini`, `Netlify` |
+| [🔐 EDS Unlocker](https://github.com/Rabeel-Ashraf/EDS-Unlocker) | Offline encrypted vault unlocking app (Android). | `Java`, `Kotlin`, `VeraCrypt` |
+
+---
+
+## 🛠️ Arsenal of Excellence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabeelashraf&show_icons=true&theme=radical&border_radius=15&hide_rank=false" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabeelashraf&theme=radical&hide_border=true" height="180px" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,js,ts,react,nodejs,python,java,docker,bash,linux,threejs,vercel,git,github,vite,postman" />
 </p>
+
+---
+
+## 🔥 Currently On Fire With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeelashraf&layout=compact&theme=radical&langs_count=10" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-000000?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make.com-purple?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-A6E3E9?style=for-the-badge&logo=n8n&logoColor=black" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Code Legacy & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rabeelashraf&theme=radical&margin-w=10&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabeel-Ashraf&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabeel-Ashraf&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔧 Current Projects
+## 🏆 Elite GitHub Achievements
 
-- 🤖 Building AI-powered agents with Python & Langchain
-- 💻 Creating full-stack apps using MERN & AI APIs
-- 🌱 Developing tools for environmental inspection and safety automation
-
----
-
-## 💬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabeel-ashraf-721105204)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/1H_Bx1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: mrperfect6ft@gmail.com)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rabeel-Ashraf&theme=tokyonight&row=1&column=6" />
+</p>
 
 ---
 
-> 🧠 *"Engineering the Future with Code, Climate, and Creativity."*
+## 🚀 In Development: The Next Frontier
+
+- 🤖 `Shazzy`: Voice-controlled personal mobile AI assistant.
+- 🕵️‍♂️ `HadarBot`: AI surveillance bot for civil defense & police.
+- 📱 `Wallet Fusion`: Local PKR wallet with manual load + transfer.
+- 🧠 `SelfHosting-as-a-Service (SHaaS)`: UAE-focused private automation hub.
+- 🔬 `AI Research Tools`: Build & test with OpenAI, Hugging Face, and LangChain.
+
+---
+
+## 🌐 Connect with the Architect
+
+- 📧 Email: [mrperfect6ft@gmail.com](mailto:mrperfect6ft@gmail.com)
+- 🌍 Portfolio: [rabeel.world](https://rabeel.world)
+- 🧠 GitHub: [@Rabeel-Ashraf](https://github.com/Rabeel-Ashraf)
+- 📷 Instagram: [@Xavernox](https://instagram.com/Xavernox)
+- 💼 LinkedIn: [Rabeel Ashraf](https://www.linkedin.com/in/rabeel-ashraf-721105204/)
+- 📅 Book a call: [Calendly](https://calendly.com/rabeelashraf/30min)
+
+---
+
+## 🧠 Final Words
+
+> *"Build systems that think, adapt, and protect. The future isn’t coded... it’s engineered."*  
+> — **Rabeel Ashraf**
+
+
+---
+
+|  _ \ __ | |_  _   | | |__ | |) / ` | ' | | | | | / __| |  __/ (| | |) | || | | __ 
+||   _,|./ _,|||_/
+
+Sentinel of OrionixLabs ⚡
+
+---
+
+<p align="center"><b>© 2025 OrionixLabs. All rights reserved.</b></p>
+
