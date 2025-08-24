@@ -14,6 +14,7 @@
 ## 📜 Table of Contents
 - [🧠 The Mind Behind the Code](#-the-mind-behind-the-code)
 - [🌞 Orionix Labs](#-orionix-labs--engineering-the-future)
+- [🏆 Elite GitHub Achievements](#-elite-github-achievements)
 - [📁 Featured Projects](#-featured-projects)
 - [🛠️ Technical Arsenal](#️-technical-arsenal)
 - [🔥 Currently Innovating](#-currently-innovating)
@@ -40,6 +41,38 @@ Multi-domain innovator blending AI automation, real-world safety systems, and fu
 - 🌌 **Immersive 3D digital experiences**
 
 Explore more at 🌐 [OrionixLabs.com](https://orionixlabs.com)
+
+---
+
+## 🏆 Elite GitHub Achievements
+
+### 🏅 Rare Trophies Collection
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rabeel-Ashraf&theme=matrix&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" />
+</p>
+
+<div align="center">
+
+| Trophy | Description | Rarity |
+|--------|-------------|--------|
+| 🏆 **Arctic Code Vault** | Contributed code to GitHub's Arctic Code Vault | 0.1% |
+| ⭐ **Starstruck** | Created a repository that received 16+ stars | 2.3% |
+| 🚀 **Quickdraw** | Closed an issue/pr within 5 minutes of opening | 1.7% |
+| 🥇 **Pair Extraordinaire** | Co-authored 4+ pull requests | 3.1% |
+| 🎯 **Pull Shark** | 2+ pull requests merged | 4.5% |
+| 🔥 **Galaxy Brain** | 2+ accepted answers | 2.8% |
+| 📜 **Public Sponsor** | Sponsoring open source developers | 1.9% |
+| 🦸 **Heart On Your Sleeve** | Customized your profile with a README | 8.2% |
+
+</div>
+
+### 🎖️ Special Honors
+- **Octocat Master** - Mastered the GitHub platform
+- **Zero to Hero** - From first commit to elite contributor
+- **Open Source Pioneer** - Significant contributions to OSS
+- **Automation Guru** - Advanced workflow implementations
+- **Security Sentinel** - Security-focused development practices
 
 ---
 
@@ -78,8 +111,12 @@ Explore more at 🌐 [OrionixLabs.com](https://orionixlabs.com)
 ## 📊 Development Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabeel-Ashraf&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabeel-Ashraf&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabeel-Ashraf&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabeel-Ashraf&theme=matrix&fire=DD472C&ring=DD472C" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabeel-Ashraf&theme=react-dark&bg_color=000000&hide_border=true&area=true" />
 </p>
 
 ---
