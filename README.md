@@ -1,17 +1,12 @@
-
-<!-- README v2 - Rabeel Ashraf / OrionixLabs -->
-
 <h1 align="center">
-  <img src="https://github.com/Rabeel-Ashraf/Rabeel.world.final/blob/main/public/rabeel.jpg" width="120" style="border-radius: 50%;" />
-  <br />
   <strong>Rabeel Ashraf</strong>
   <br />
-  Founder of <a href="https://orionixlabs.com" target="_blank">OrionixLabs</a>
+  <em>Founder of <a href="https://orionixlabs.com" target="_blank">OrionixLabs</a></em>
 </h1>
 
 <p align="center">
   <em>AI Specialist | Automation Architect | Safety Engineer | Creator of Sentient Code</em><br/>
-  <strong>“I am Sentinel of OrionixLabs”</strong>
+  <strong>"I am Sentinel of OrionixLabs"</strong>
 </p>
 
 ---
@@ -20,25 +15,24 @@
 - [🧠 The Mind Behind the Code](#-the-mind-behind-the-code)
 - [🌞 Orionix Labs](#-orionix-labs--engineering-the-future)
 - [📁 Featured Projects](#-featured-projects)
-- [🛠️ Arsenal of Excellence](#️-arsenal-of-excellence)
-- [🔥 Currently On Fire With](#-currently-on-fire-with)
-- [📊 Code Legacy & Activity](#-code-legacy--activity)
-- [🏆 Elite GitHub Achievements](#-elite-github-achievements)
+- [🛠️ Technical Arsenal](#️-technical-arsenal)
+- [🔥 Currently Innovating](#-currently-innovating)
+- [📊 Development Analytics](#-development-analytics)
 - [🚀 In Development](#-in-development-the-next-frontier)
-- [🌐 Connect with the Architect](#-connect-with-the-architect)
-- [🧠 Final Words](#-final-words)
+- [🌐 Connect](#-connect-with-the-architect)
+- [🧠 Philosophy](#-philosophy)
 
 ---
 
 ## 🧠 The Mind Behind the Code
 
-I’m Rabeel Ashraf — a multi-domain innovator blending AI automation, real-world safety systems, and future-facing tech. Whether it’s crafting self-hosted SaaS platforms, building personal AI agents, or creating immersive portfolio experiences, I engineer tools that **learn, protect, and evolve**.
+Multi-domain innovator blending AI automation, real-world safety systems, and future-facing technology. I engineer tools that **learn, protect, and evolve** through self-hosted SaaS platforms, personal AI agents, and immersive digital experiences.
 
 ---
 
 ## 🌞 Orionix Labs – Engineering the Future
 
-> 🚀 A next-gen software company designing rare, uncreateable tools in:
+> 🚀 Next-gen software company designing rare, uncreateable tools in:
 - ✳️ **AI agents & assistants**
 - 🧠 **Automation bots**
 - 🌐 **Self-hosted SaaS**
@@ -53,14 +47,14 @@ Explore more at 🌐 [OrionixLabs.com](https://orionixlabs.com)
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🧠 OrionCore AI](https://github.com/Rabeel-Ashraf/OrionCore) | Autonomous AI agent orchestration platform. | `LangChain`, `GPT-4`, `PostgreSQL`, `Next.js` |
-| [🌍 SafeSite AI](https://github.com/Rabeel-Ashraf/SafeSiteAI) | Real-time safety alerting system for high-risk zones. | `YOLOv8`, `CV`, `Raspberry Pi`, `IoT` |
-| [📊 FinGenie](https://github.com/Rabeel-Ashraf/FinGenie) | AI financial research engine with smart API calls. | `Node.js`, `OpenAI`, `Gemini`, `Netlify` |
-| [🔐 EDS Unlocker](https://github.com/Rabeel-Ashraf/EDS-Unlocker) | Offline encrypted vault unlocking app (Android). | `Java`, `Kotlin`, `VeraCrypt` |
+| [🧠 OrionCore AI](https://github.com/Rabeel-Ashraf/OrionCore) | Autonomous AI agent orchestration platform | `LangChain`, `GPT-4`, `PostgreSQL`, `Next.js` |
+| [🌍 SafeSite AI](https://github.com/Rabeel-Ashraf/SafeSiteAI) | Real-time safety alerting system for high-risk zones | `YOLOv8`, `CV`, `Raspberry Pi`, `IoT` |
+| [📊 FinGenie](https://github.com/Rabeel-Ashraf/FinGenie) | AI financial research engine with smart API calls | `Node.js`, `OpenAI`, `Gemini`, `Netlify` |
+| [🔐 EDS Unlocker](https://github.com/Rabeel-Ashraf/EDS-Unlocker) | Offline encrypted vault unlocking app (Android) | `Java`, `Kotlin`, `VeraCrypt` |
 
 ---
 
-## 🛠️ Arsenal of Excellence
+## 🛠️ Technical Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,js,ts,react,nodejs,python,java,docker,bash,linux,threejs,vercel,git,github,vite,postman" />
@@ -68,7 +62,7 @@ Explore more at 🌐 [OrionixLabs.com](https://orionixlabs.com)
 
 ---
 
-## 🔥 Currently On Fire With
+## 🔥 Currently Innovating
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -81,7 +75,7 @@ Explore more at 🌐 [OrionixLabs.com](https://orionixlabs.com)
 
 ---
 
-## 📊 Code Legacy & Activity
+## 📊 Development Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rabeel-Ashraf&show_icons=true&theme=tokyonight" />
@@ -90,49 +84,32 @@ Explore more at 🌐 [OrionixLabs.com](https://orionixlabs.com)
 
 ---
 
-## 🏆 Elite GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rabeel-Ashraf&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ## 🚀 In Development: The Next Frontier
 
-- 🤖 `Shazzy`: Voice-controlled personal mobile AI assistant.
-- 🕵️‍♂️ `HadarBot`: AI surveillance bot for civil defense & police.
-- 📱 `Wallet Fusion`: Local PKR wallet with manual load + transfer.
-- 🧠 `SelfHosting-as-a-Service (SHaaS)`: UAE-focused private automation hub.
-- 🔬 `AI Research Tools`: Build & test with OpenAI, Hugging Face, and LangChain.
+- 🤖 `Shazzy`: Voice-controlled personal mobile AI assistant
+- 🕵️‍♂️ `HadarBot`: AI surveillance bot for civil defense & police
+- 📱 `Wallet Fusion`: Local PKR wallet with manual load + transfer
+- 🧠 `SelfHosting-as-a-Service (SHaaS)`: UAE-focused private automation hub
+- 🔬 `AI Research Tools`: Build & test with OpenAI, Hugging Face, and LangChain
 
 ---
 
 ## 🌐 Connect with the Architect
 
-- 📧 Email: [mrperfect6ft@gmail.com](mailto:mrperfect6ft@gmail.com)
-- 🌍 Portfolio: [rabeel.world](https://rabeel.world)
-- 🧠 GitHub: [@Rabeel-Ashraf](https://github.com/Rabeel-Ashraf)
-- 📷 Instagram: [@Xavernox](https://instagram.com/Xavernox)
-- 💼 LinkedIn: [Rabeel Ashraf](https://www.linkedin.com/in/rabeel-ashraf-721105204/)
-- 📅 Book a call: [Calendly](https://calendly.com/rabeelashraf/30min)
+- 📧 **Email**: [mrperfect6ft@gmail.com](mailto:mrperfect6ft@gmail.com)
+- 🌍 **Portfolio**: [rabeel.world](https://rabeel.world)
+- 🧠 **GitHub**: [@Rabeel-Ashraf](https://github.com/Rabeel-Ashraf)
+- 💼 **LinkedIn**: [Rabeel Ashraf](https://www.linkedin.com/in/rabeel-ashraf-721105204/)
+- 📅 **Book a call**: [Calendly](https://calendly.com/rabeelashraf/30min)
 
 ---
 
-## 🧠 Final Words
+## 🧠 Philosophy
 
-> *"Build systems that think, adapt, and protect. The future isn’t coded... it’s engineered."*  
+> *"Build systems that think, adapt, and protect. The future isn't coded... it's engineered."*  
 > — **Rabeel Ashraf**
 
-
 ---
 
-|  _ \ __ | |_  _   | | |__ | |) / ` | ' | | | | | / __| |  __/ (| | |) | || | | __ 
-||   _,|./ _,|||_/
-
-Sentinel of OrionixLabs ⚡
-
----
-
+<p align="center"><b>Sentinel of OrionixLabs ⚡</b></p>
 <p align="center"><b>© 2025 OrionixLabs. All rights reserved.</b></p>
-
